@@ -129,7 +129,7 @@ let mensaje =
     document.getElementById("mensaje")
 
 let cuerpoTabla =
-    document.getElementById("tablaPelículas")
+    document.getElementById("tablaPeliculas")
 
 function mostrarMensaje(texto) {
 
